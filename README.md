@@ -1,5 +1,6 @@
 # JunaMaps - Locales JUNAEB en Curacaví 🗺️
 
+
 ## 📱 Descripción del Proyecto
 **JunaMaps** es una aplicación móvil Android desarrollada en **Kotlin** con **Jetpack Compose**, diseñada para ayudar a los estudiantes beneficiarios de la beca JUNAEB a localizar comercios adheridos en la comuna de Curacaví. La aplicación integra geolocalización, persistencia de datos local y consumo de APIs externas para mejorar la experiencia del usuario.
 
