@@ -1,18 +1,5 @@
 # JunaMaps - Locales JUNAEB en Curacaví 🗺️
 
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
-[![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org)
-[![Open-Meteo](https://img.shields.io/badge/API-Open--Meteo-orange.svg)](https://open-meteo.com/)
-[![License](https://img.shields.io/badge/License-Educational-orange.svg)](LICENSE)
-
-## 👥 Integrantes del Equipo
-> **Evaluación Parcial 4 (Encargo) y 5 (Defensa)**
-
-*   **[Nombre del Estudiante 1]** - *Rol: [Desarrollador Android / QA / etc]*
-*   **[Nombre del Estudiante 2]** - *Rol: [Arquitecto / UI Designer / etc]*
-
----
-
 ## 📱 Descripción del Proyecto
 **JunaMaps** es una aplicación móvil Android desarrollada en **Kotlin** con **Jetpack Compose**, diseñada para ayudar a los estudiantes beneficiarios de la beca JUNAEB a localizar comercios adheridos en la comuna de Curacaví. La aplicación integra geolocalización, persistencia de datos local y consumo de APIs externas para mejorar la experiencia del usuario.
 
@@ -83,9 +70,6 @@ Utilizamos la API gratuita de Open-Meteo para obtener datos meteorológicos.
 
 El proyecto incluye la configuración para generar el APK firmado automáticamente.
 
-### Evidencia de Configuración (.jks)
-> *[Espacio para insertar captura de pantalla del archivo .jks en la estructura de carpetas]*
-
 ### Pasos para generar el APK:
 1.  Abrir terminal en Android Studio.
 2.  Ejecutar el comando:
@@ -105,8 +89,6 @@ El repositorio evidencia el trabajo colaborativo mediante:
 
 ### 📋 Trello (Planificación)
 Se utilizó metodología Kanban para la distribución de tareas.
-> *[Espacio para insertar enlace o captura del tablero de Trello]*
-
 ---
 
 ## 📂 Estructura del Código (Arquitectura)
@@ -132,4 +114,3 @@ cl.duoc.basico
 *   **Estabilidad:** Manejo de errores en llamadas de red y lectura de archivos.
 
 ---
-**Desarrollado para la Asignatura DSY1105 - Duoc UC**
