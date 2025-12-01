@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Almacén Central Curacaví",
+    "lat": -33.390756,
+    "lng": -71.153893,
+    "address": "Av. Manuel Rodríguez 345, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 2,
+    "name": "Minimarket El Ahorro",
+    "lat": -33.391234,
+    "lng": -71.154567,
+    "address": "Calle O'Higgins 123, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 3,
+    "name": "Supermercado Santa Rosa",
+    "lat": -33.389876,
+    "lng": -71.152345,
+    "address": "Av. Los Carrera 567, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 4,
+    "name": "Almacén Don Luis",
+    "lat": -33.392345,
+    "lng": -71.155678,
+    "address": "Pasaje Los Aromos 89, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 5,
+    "name": "Minimarket Express",
+    "lat": -33.390123,
+    "lng": -71.153456,
+    "address": "Calle Las Rosas 234, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 6,
+    "name": "Almacén La Esquina",
+    "lat": -33.391567,
+    "lng": -71.154890,
+    "address": "Av. Independencia 456, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 7,
+    "name": "Verdulería y Almacén El Huerto",
+    "lat": -33.389456,
+    "lng": -71.152789,
+    "address": "Calle Arturo Prat 678, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 8,
+    "name": "Minimarket Los Andes",
+    "lat": -33.392678,
+    "lng": -71.155234,
+    "address": "Pasaje San José 90, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 9,
+    "name": "Supermercado El Trébol",
+    "lat": -33.390890,
+    "lng": -71.153678,
+    "address": "Av. Balmaceda 789, Curacaví",
+    "acceptsJunaeb": true
+  },
+  {
+    "id": 10,
+    "name": "Almacén Don Pedro",
+    "lat": -33.391890,
+    "lng": -71.154234,
+    "address": "Calle Maipú 345, Curacaví",
+    "acceptsJunaeb": true
+  }
+]
