@@ -5,10 +5,6 @@
 [![Open-Meteo](https://img.shields.io/badge/API-Open--Meteo-orange.svg)](https://open-meteo.com/)
 [![License](https://img.shields.io/badge/License-Educational-orange.svg)](LICENSE)
 
-## 👥 Integrantes del Equipo
-> **Evaluación Parcial 4 (Encargo) y 5 (Defensa)**
----
-
 ## 📱 Descripción del Proyecto
 **JunaMaps** es una aplicación móvil Android desarrollada en **Kotlin** con **Jetpack Compose**, diseñada para ayudar a los estudiantes beneficiarios de la beca JUNAEB a localizar comercios adheridos en la comuna de Curacaví. La aplicación integra geolocalización, persistencia de datos local y consumo de APIs externas para mejorar la experiencia del usuario.
 
@@ -98,7 +94,6 @@ El repositorio evidencia el trabajo colaborativo mediante:
 
 ### 📋 Trello (Planificación)
 Se utilizó metodología Kanban para la distribución de tareas.
-> *[Espacio para insertar enlace o captura del tablero de Trello]*
 
 ---
 
