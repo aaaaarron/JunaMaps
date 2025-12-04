@@ -7,10 +7,6 @@
 
 ## 👥 Integrantes del Equipo
 > **Evaluación Parcial 4 (Encargo) y 5 (Defensa)**
-
-*   **[Nombre del Estudiante 1]** - *Rol: [Desarrollador Android / QA / etc]*
-*   **[Nombre del Estudiante 2]** - *Rol: [Arquitecto / UI Designer / etc]*
-
 ---
 
 ## 📱 Descripción del Proyecto
@@ -83,9 +79,6 @@ Utilizamos la API gratuita de Open-Meteo para obtener datos meteorológicos.
 
 El proyecto incluye la configuración para generar el APK firmado automáticamente.
 
-### Evidencia de Configuración (.jks)
-> *[Espacio para insertar captura de pantalla del archivo .jks en la estructura de carpetas]*
-
 ### Pasos para generar el APK:
 1.  Abrir terminal en Android Studio.
 2.  Ejecutar el comando:
@@ -132,4 +125,3 @@ cl.duoc.basico
 *   **Estabilidad:** Manejo de errores en llamadas de red y lectura de archivos.
 
 ---
-**Desarrollado para la Asignatura DSY1105 - Duoc UC**
